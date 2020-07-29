@@ -16,6 +16,35 @@
 		1814164524CFCEAB00E365EA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814164424CFCEAB00E365EA /* main.m */; };
 		1814164F24CFCEAC00E365EA /* _____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814164E24CFCEAC00E365EA /* _____Tests.m */; };
 		1814165A24CFCEAC00E365EA /* _____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814165924CFCEAC00E365EA /* _____UITests.m */; };
+		1814166924CFCF3800E365EA /* SeeVideosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814166824CFCF3800E365EA /* SeeVideosViewController.m */; };
+		1814166C24CFF85000E365EA /* EyeCatchingWaiterCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814166B24CFF85000E365EA /* EyeCatchingWaiterCell.m */; };
+		181416A524CFFE1500E365EA /* ZFPlayerGestureControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814167124CFFE1400E365EA /* ZFPlayerGestureControl.m */; };
+		181416A624CFFE1500E365EA /* ZFPlayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814167224CFFE1400E365EA /* ZFPlayerController.m */; };
+		181416A724CFFE1500E365EA /* ZFOrientationObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814167524CFFE1400E365EA /* ZFOrientationObserver.m */; };
+		181416A824CFFE1500E365EA /* ZFPlayerLogManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814167724CFFE1400E365EA /* ZFPlayerLogManager.m */; };
+		181416A924CFFE1500E365EA /* UIScrollView+ZFPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814167A24CFFE1400E365EA /* UIScrollView+ZFPlayer.m */; };
+		181416AA24CFFE1500E365EA /* ZFPlayerNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814167D24CFFE1400E365EA /* ZFPlayerNotification.m */; };
+		181416AB24CFFE1500E365EA /* ZFFloatView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814167E24CFFE1400E365EA /* ZFFloatView.m */; };
+		181416AC24CFFE1500E365EA /* ZFPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814168124CFFE1400E365EA /* ZFPlayerView.m */; };
+		181416AD24CFFE1500E365EA /* ZFKVOController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814168424CFFE1400E365EA /* ZFKVOController.m */; };
+		181416AE24CFFE1500E365EA /* ZFReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814168624CFFE1400E365EA /* ZFReachabilityManager.m */; };
+		181416AF24CFFE1500E365EA /* UIViewController+ZFPlayerRotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814168724CFFE1400E365EA /* UIViewController+ZFPlayerRotation.m */; };
+		181416B024CFFE1500E365EA /* ZFAVPlayerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814168924CFFE1400E365EA /* ZFAVPlayerManager.m */; };
+		181416B124CFFE1500E365EA /* ZFUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814168C24CFFE1500E365EA /* ZFUtilities.m */; };
+		181416B224CFFE1500E365EA /* UIView+ZFFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814168D24CFFE1500E365EA /* UIView+ZFFrame.m */; };
+		181416B324CFFE1500E365EA /* ZFVolumeBrightnessView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814169124CFFE1500E365EA /* ZFVolumeBrightnessView.m */; };
+		181416B424CFFE1500E365EA /* ZFLandScapeControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814169424CFFE1500E365EA /* ZFLandScapeControlView.m */; };
+		181416B524CFFE1500E365EA /* ZFNetworkSpeedMonitor.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814169524CFFE1500E365EA /* ZFNetworkSpeedMonitor.m */; };
+		181416B624CFFE1500E365EA /* ZFPlayer.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1814169824CFFE1500E365EA /* ZFPlayer.bundle */; };
+		181416B724CFFE1500E365EA /* ZFSliderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814169B24CFFE1500E365EA /* ZFSliderView.m */; };
+		181416B824CFFE1500E365EA /* ZFPlayerControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814169C24CFFE1500E365EA /* ZFPlayerControlView.m */; };
+		181416B924CFFE1500E365EA /* ZFSmallFloatControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814169D24CFFE1500E365EA /* ZFSmallFloatControlView.m */; };
+		181416BA24CFFE1500E365EA /* ZFLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814169E24CFFE1500E365EA /* ZFLoadingView.m */; };
+		181416BB24CFFE1500E365EA /* ZFSpeedLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1814169F24CFFE1500E365EA /* ZFSpeedLoadingView.m */; };
+		181416BC24CFFE1500E365EA /* ZFPortraitControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = 181416A124CFFE1500E365EA /* ZFPortraitControlView.m */; };
+		181416BD24CFFE1500E365EA /* UIImageView+ZFCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 181416A224CFFE1500E365EA /* UIImageView+ZFCache.m */; };
+		181416C024D028C900E365EA /* ZFDouYinControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = 181416BE24D028C900E365EA /* ZFDouYinControlView.m */; };
+		A15CD0C2F9FAEE7FFDD8E1C5 /* libPods-4.看视频.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5078993069A9AA1C270BF669 /* libPods-4.看视频.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +83,66 @@
 		1814165524CFCEAC00E365EA /* 4.看视频UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "4.看视频UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1814165924CFCEAC00E365EA /* _____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_____UITests.m"; sourceTree = "<group>"; };
 		1814165B24CFCEAC00E365EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1814166724CFCF3800E365EA /* SeeVideosViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SeeVideosViewController.h; sourceTree = "<group>"; };
+		1814166824CFCF3800E365EA /* SeeVideosViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SeeVideosViewController.m; sourceTree = "<group>"; };
+		1814166A24CFF85000E365EA /* EyeCatchingWaiterCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EyeCatchingWaiterCell.h; sourceTree = "<group>"; };
+		1814166B24CFF85000E365EA /* EyeCatchingWaiterCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EyeCatchingWaiterCell.m; sourceTree = "<group>"; };
+		1814167024CFFE1400E365EA /* ZFPlayerNotification.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerNotification.h; sourceTree = "<group>"; };
+		1814167124CFFE1400E365EA /* ZFPlayerGestureControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerGestureControl.m; sourceTree = "<group>"; };
+		1814167224CFFE1400E365EA /* ZFPlayerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerController.m; sourceTree = "<group>"; };
+		1814167324CFFE1400E365EA /* ZFFloatView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFFloatView.h; sourceTree = "<group>"; };
+		1814167424CFFE1400E365EA /* ZFKVOController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFKVOController.h; sourceTree = "<group>"; };
+		1814167524CFFE1400E365EA /* ZFOrientationObserver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFOrientationObserver.m; sourceTree = "<group>"; };
+		1814167624CFFE1400E365EA /* ZFPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerView.h; sourceTree = "<group>"; };
+		1814167724CFFE1400E365EA /* ZFPlayerLogManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerLogManager.m; sourceTree = "<group>"; };
+		1814167824CFFE1400E365EA /* ZFPlayerMediaPlayback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerMediaPlayback.h; sourceTree = "<group>"; };
+		1814167924CFFE1400E365EA /* ZFReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFReachabilityManager.h; sourceTree = "<group>"; };
+		1814167A24CFFE1400E365EA /* UIScrollView+ZFPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+ZFPlayer.m"; sourceTree = "<group>"; };
+		1814167B24CFFE1400E365EA /* ZFPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayer.h; sourceTree = "<group>"; };
+		1814167C24CFFE1400E365EA /* ZFPlayerGestureControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerGestureControl.h; sourceTree = "<group>"; };
+		1814167D24CFFE1400E365EA /* ZFPlayerNotification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerNotification.m; sourceTree = "<group>"; };
+		1814167E24CFFE1400E365EA /* ZFFloatView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFFloatView.m; sourceTree = "<group>"; };
+		1814167F24CFFE1400E365EA /* ZFPlayerMediaControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerMediaControl.h; sourceTree = "<group>"; };
+		1814168024CFFE1400E365EA /* ZFPlayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerController.h; sourceTree = "<group>"; };
+		1814168124CFFE1400E365EA /* ZFPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerView.m; sourceTree = "<group>"; };
+		1814168224CFFE1400E365EA /* ZFPlayerLogManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerLogManager.h; sourceTree = "<group>"; };
+		1814168324CFFE1400E365EA /* ZFOrientationObserver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFOrientationObserver.h; sourceTree = "<group>"; };
+		1814168424CFFE1400E365EA /* ZFKVOController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFKVOController.m; sourceTree = "<group>"; };
+		1814168524CFFE1400E365EA /* UIScrollView+ZFPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+ZFPlayer.h"; sourceTree = "<group>"; };
+		1814168624CFFE1400E365EA /* ZFReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFReachabilityManager.m; sourceTree = "<group>"; };
+		1814168724CFFE1400E365EA /* UIViewController+ZFPlayerRotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+ZFPlayerRotation.m"; sourceTree = "<group>"; };
+		1814168924CFFE1400E365EA /* ZFAVPlayerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFAVPlayerManager.m; sourceTree = "<group>"; };
+		1814168A24CFFE1500E365EA /* ZFAVPlayerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFAVPlayerManager.h; sourceTree = "<group>"; };
+		1814168C24CFFE1500E365EA /* ZFUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFUtilities.m; sourceTree = "<group>"; };
+		1814168D24CFFE1500E365EA /* UIView+ZFFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ZFFrame.m"; sourceTree = "<group>"; };
+		1814168E24CFFE1500E365EA /* ZFSmallFloatControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFSmallFloatControlView.h; sourceTree = "<group>"; };
+		1814168F24CFFE1500E365EA /* ZFPlayerControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerControlView.h; sourceTree = "<group>"; };
+		1814169024CFFE1500E365EA /* ZFSliderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFSliderView.h; sourceTree = "<group>"; };
+		1814169124CFFE1500E365EA /* ZFVolumeBrightnessView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFVolumeBrightnessView.m; sourceTree = "<group>"; };
+		1814169224CFFE1500E365EA /* ZFSpeedLoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFSpeedLoadingView.h; sourceTree = "<group>"; };
+		1814169324CFFE1500E365EA /* ZFLoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFLoadingView.h; sourceTree = "<group>"; };
+		1814169424CFFE1500E365EA /* ZFLandScapeControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFLandScapeControlView.m; sourceTree = "<group>"; };
+		1814169524CFFE1500E365EA /* ZFNetworkSpeedMonitor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFNetworkSpeedMonitor.m; sourceTree = "<group>"; };
+		1814169624CFFE1500E365EA /* UIImageView+ZFCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ZFCache.h"; sourceTree = "<group>"; };
+		1814169724CFFE1500E365EA /* ZFPortraitControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPortraitControlView.h; sourceTree = "<group>"; };
+		1814169824CFFE1500E365EA /* ZFPlayer.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ZFPlayer.bundle; sourceTree = "<group>"; };
+		1814169924CFFE1500E365EA /* UIView+ZFFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ZFFrame.h"; sourceTree = "<group>"; };
+		1814169A24CFFE1500E365EA /* ZFUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFUtilities.h; sourceTree = "<group>"; };
+		1814169B24CFFE1500E365EA /* ZFSliderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFSliderView.m; sourceTree = "<group>"; };
+		1814169C24CFFE1500E365EA /* ZFPlayerControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerControlView.m; sourceTree = "<group>"; };
+		1814169D24CFFE1500E365EA /* ZFSmallFloatControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFSmallFloatControlView.m; sourceTree = "<group>"; };
+		1814169E24CFFE1500E365EA /* ZFLoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFLoadingView.m; sourceTree = "<group>"; };
+		1814169F24CFFE1500E365EA /* ZFSpeedLoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFSpeedLoadingView.m; sourceTree = "<group>"; };
+		181416A024CFFE1500E365EA /* ZFVolumeBrightnessView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFVolumeBrightnessView.h; sourceTree = "<group>"; };
+		181416A124CFFE1500E365EA /* ZFPortraitControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPortraitControlView.m; sourceTree = "<group>"; };
+		181416A224CFFE1500E365EA /* UIImageView+ZFCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ZFCache.m"; sourceTree = "<group>"; };
+		181416A324CFFE1500E365EA /* ZFNetworkSpeedMonitor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFNetworkSpeedMonitor.h; sourceTree = "<group>"; };
+		181416A424CFFE1500E365EA /* ZFLandScapeControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFLandScapeControlView.h; sourceTree = "<group>"; };
+		181416BE24D028C900E365EA /* ZFDouYinControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFDouYinControlView.m; sourceTree = "<group>"; };
+		181416BF24D028C900E365EA /* ZFDouYinControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFDouYinControlView.h; sourceTree = "<group>"; };
+		5078993069A9AA1C270BF669 /* libPods-4.看视频.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-4.看视频.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8B7C8B2BC3D36A02F559EC6 /* Pods-4.看视频.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-4.看视频.release.xcconfig"; path = "Target Support Files/Pods-4.看视频/Pods-4.看视频.release.xcconfig"; sourceTree = "<group>"; };
+		E6F5F8B3758A5EA6EC5382C5 /* Pods-4.看视频.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-4.看视频.debug.xcconfig"; path = "Target Support Files/Pods-4.看视频/Pods-4.看视频.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +150,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A15CD0C2F9FAEE7FFDD8E1C5 /* libPods-4.看视频.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +171,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		01689C990F0E0DE469857D61 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5078993069A9AA1C270BF669 /* libPods-4.看视频.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		1814162624CFCEAA00E365EA = {
 			isa = PBXGroup;
 			children = (
@@ -88,6 +186,8 @@
 				1814164D24CFCEAC00E365EA /* 4.看视频Tests */,
 				1814165824CFCEAC00E365EA /* 4.看视频UITests */,
 				1814163024CFCEAA00E365EA /* Products */,
+				A7AC21B82D661FB6E4AA6734 /* Pods */,
+				01689C990F0E0DE469857D61 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -104,12 +204,19 @@
 		1814163124CFCEAA00E365EA /* 4.看视频 */ = {
 			isa = PBXGroup;
 			children = (
+				1814166D24CFFE1400E365EA /* ZFPlayer */,
 				1814163224CFCEAA00E365EA /* AppDelegate.h */,
 				1814163324CFCEAA00E365EA /* AppDelegate.m */,
 				1814163524CFCEAA00E365EA /* SceneDelegate.h */,
 				1814163624CFCEAA00E365EA /* SceneDelegate.m */,
 				1814163824CFCEAA00E365EA /* ViewController.h */,
 				1814163924CFCEAA00E365EA /* ViewController.m */,
+				1814166724CFCF3800E365EA /* SeeVideosViewController.h */,
+				1814166824CFCF3800E365EA /* SeeVideosViewController.m */,
+				181416BF24D028C900E365EA /* ZFDouYinControlView.h */,
+				181416BE24D028C900E365EA /* ZFDouYinControlView.m */,
+				1814166A24CFF85000E365EA /* EyeCatchingWaiterCell.h */,
+				1814166B24CFF85000E365EA /* EyeCatchingWaiterCell.m */,
 				1814163B24CFCEAA00E365EA /* Main.storyboard */,
 				1814163E24CFCEAB00E365EA /* Assets.xcassets */,
 				1814164024CFCEAB00E365EA /* LaunchScreen.storyboard */,
@@ -137,6 +244,105 @@
 			path = "4.看视频UITests";
 			sourceTree = "<group>";
 		};
+		1814166D24CFFE1400E365EA /* ZFPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				1814166E24CFFE1400E365EA /* Classes */,
+			);
+			path = ZFPlayer;
+			sourceTree = "<group>";
+		};
+		1814166E24CFFE1400E365EA /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1814166F24CFFE1400E365EA /* Core */,
+				1814168824CFFE1400E365EA /* AVPlayer */,
+				1814168B24CFFE1500E365EA /* ControlView */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		1814166F24CFFE1400E365EA /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				1814167024CFFE1400E365EA /* ZFPlayerNotification.h */,
+				1814167124CFFE1400E365EA /* ZFPlayerGestureControl.m */,
+				1814167224CFFE1400E365EA /* ZFPlayerController.m */,
+				1814167324CFFE1400E365EA /* ZFFloatView.h */,
+				1814167424CFFE1400E365EA /* ZFKVOController.h */,
+				1814167524CFFE1400E365EA /* ZFOrientationObserver.m */,
+				1814167624CFFE1400E365EA /* ZFPlayerView.h */,
+				1814167724CFFE1400E365EA /* ZFPlayerLogManager.m */,
+				1814167824CFFE1400E365EA /* ZFPlayerMediaPlayback.h */,
+				1814167924CFFE1400E365EA /* ZFReachabilityManager.h */,
+				1814167A24CFFE1400E365EA /* UIScrollView+ZFPlayer.m */,
+				1814167B24CFFE1400E365EA /* ZFPlayer.h */,
+				1814167C24CFFE1400E365EA /* ZFPlayerGestureControl.h */,
+				1814167D24CFFE1400E365EA /* ZFPlayerNotification.m */,
+				1814167E24CFFE1400E365EA /* ZFFloatView.m */,
+				1814167F24CFFE1400E365EA /* ZFPlayerMediaControl.h */,
+				1814168024CFFE1400E365EA /* ZFPlayerController.h */,
+				1814168124CFFE1400E365EA /* ZFPlayerView.m */,
+				1814168224CFFE1400E365EA /* ZFPlayerLogManager.h */,
+				1814168324CFFE1400E365EA /* ZFOrientationObserver.h */,
+				1814168424CFFE1400E365EA /* ZFKVOController.m */,
+				1814168524CFFE1400E365EA /* UIScrollView+ZFPlayer.h */,
+				1814168624CFFE1400E365EA /* ZFReachabilityManager.m */,
+				1814168724CFFE1400E365EA /* UIViewController+ZFPlayerRotation.m */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		1814168824CFFE1400E365EA /* AVPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				1814168924CFFE1400E365EA /* ZFAVPlayerManager.m */,
+				1814168A24CFFE1500E365EA /* ZFAVPlayerManager.h */,
+			);
+			path = AVPlayer;
+			sourceTree = "<group>";
+		};
+		1814168B24CFFE1500E365EA /* ControlView */ = {
+			isa = PBXGroup;
+			children = (
+				1814168C24CFFE1500E365EA /* ZFUtilities.m */,
+				1814168D24CFFE1500E365EA /* UIView+ZFFrame.m */,
+				1814168E24CFFE1500E365EA /* ZFSmallFloatControlView.h */,
+				1814168F24CFFE1500E365EA /* ZFPlayerControlView.h */,
+				1814169024CFFE1500E365EA /* ZFSliderView.h */,
+				1814169124CFFE1500E365EA /* ZFVolumeBrightnessView.m */,
+				1814169224CFFE1500E365EA /* ZFSpeedLoadingView.h */,
+				1814169324CFFE1500E365EA /* ZFLoadingView.h */,
+				1814169424CFFE1500E365EA /* ZFLandScapeControlView.m */,
+				1814169524CFFE1500E365EA /* ZFNetworkSpeedMonitor.m */,
+				1814169624CFFE1500E365EA /* UIImageView+ZFCache.h */,
+				1814169724CFFE1500E365EA /* ZFPortraitControlView.h */,
+				1814169824CFFE1500E365EA /* ZFPlayer.bundle */,
+				1814169924CFFE1500E365EA /* UIView+ZFFrame.h */,
+				1814169A24CFFE1500E365EA /* ZFUtilities.h */,
+				1814169B24CFFE1500E365EA /* ZFSliderView.m */,
+				1814169C24CFFE1500E365EA /* ZFPlayerControlView.m */,
+				1814169D24CFFE1500E365EA /* ZFSmallFloatControlView.m */,
+				1814169E24CFFE1500E365EA /* ZFLoadingView.m */,
+				1814169F24CFFE1500E365EA /* ZFSpeedLoadingView.m */,
+				181416A024CFFE1500E365EA /* ZFVolumeBrightnessView.h */,
+				181416A124CFFE1500E365EA /* ZFPortraitControlView.m */,
+				181416A224CFFE1500E365EA /* UIImageView+ZFCache.m */,
+				181416A324CFFE1500E365EA /* ZFNetworkSpeedMonitor.h */,
+				181416A424CFFE1500E365EA /* ZFLandScapeControlView.h */,
+			);
+			path = ControlView;
+			sourceTree = "<group>";
+		};
+		A7AC21B82D661FB6E4AA6734 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E6F5F8B3758A5EA6EC5382C5 /* Pods-4.看视频.debug.xcconfig */,
+				D8B7C8B2BC3D36A02F559EC6 /* Pods-4.看视频.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -144,6 +350,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1814165E24CFCEAC00E365EA /* Build configuration list for PBXNativeTarget "4.看视频" */;
 			buildPhases = (
+				92200C3DDD8FF2787D70FE03 /* [CP] Check Pods Manifest.lock */,
 				1814162B24CFCEAA00E365EA /* Sources */,
 				1814162C24CFCEAA00E365EA /* Frameworks */,
 				1814162D24CFCEAA00E365EA /* Resources */,
@@ -240,6 +447,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				181416B624CFFE1500E365EA /* ZFPlayer.bundle in Resources */,
 				1814164224CFCEAB00E365EA /* LaunchScreen.storyboard in Resources */,
 				1814163F24CFCEAB00E365EA /* Assets.xcassets in Resources */,
 				1814163D24CFCEAA00E365EA /* Main.storyboard in Resources */,
@@ -262,15 +470,67 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		92200C3DDD8FF2787D70FE03 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-4.看视频-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		1814162B24CFCEAA00E365EA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				181416A624CFFE1500E365EA /* ZFPlayerController.m in Sources */,
 				1814163A24CFCEAA00E365EA /* ViewController.m in Sources */,
+				181416BC24CFFE1500E365EA /* ZFPortraitControlView.m in Sources */,
+				181416B824CFFE1500E365EA /* ZFPlayerControlView.m in Sources */,
+				181416B324CFFE1500E365EA /* ZFVolumeBrightnessView.m in Sources */,
+				181416B224CFFE1500E365EA /* UIView+ZFFrame.m in Sources */,
+				181416AD24CFFE1500E365EA /* ZFKVOController.m in Sources */,
+				1814166924CFCF3800E365EA /* SeeVideosViewController.m in Sources */,
+				181416AF24CFFE1500E365EA /* UIViewController+ZFPlayerRotation.m in Sources */,
+				181416A824CFFE1500E365EA /* ZFPlayerLogManager.m in Sources */,
 				1814163424CFCEAA00E365EA /* AppDelegate.m in Sources */,
+				181416AA24CFFE1500E365EA /* ZFPlayerNotification.m in Sources */,
+				181416B424CFFE1500E365EA /* ZFLandScapeControlView.m in Sources */,
 				1814164524CFCEAB00E365EA /* main.m in Sources */,
+				181416B024CFFE1500E365EA /* ZFAVPlayerManager.m in Sources */,
+				181416AB24CFFE1500E365EA /* ZFFloatView.m in Sources */,
+				181416BA24CFFE1500E365EA /* ZFLoadingView.m in Sources */,
+				181416BD24CFFE1500E365EA /* UIImageView+ZFCache.m in Sources */,
+				1814166C24CFF85000E365EA /* EyeCatchingWaiterCell.m in Sources */,
+				181416B524CFFE1500E365EA /* ZFNetworkSpeedMonitor.m in Sources */,
+				181416AC24CFFE1500E365EA /* ZFPlayerView.m in Sources */,
 				1814163724CFCEAA00E365EA /* SceneDelegate.m in Sources */,
+				181416A924CFFE1500E365EA /* UIScrollView+ZFPlayer.m in Sources */,
+				181416BB24CFFE1500E365EA /* ZFSpeedLoadingView.m in Sources */,
+				181416A724CFFE1500E365EA /* ZFOrientationObserver.m in Sources */,
+				181416B124CFFE1500E365EA /* ZFUtilities.m in Sources */,
+				181416AE24CFFE1500E365EA /* ZFReachabilityManager.m in Sources */,
+				181416B924CFFE1500E365EA /* ZFSmallFloatControlView.m in Sources */,
+				181416C024D028C900E365EA /* ZFDouYinControlView.m in Sources */,
+				181416A524CFFE1500E365EA /* ZFPlayerGestureControl.m in Sources */,
+				181416B724CFFE1500E365EA /* ZFSliderView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,35 +697,39 @@
 		};
 		1814165F24CFCEAC00E365EA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6F5F8B3758A5EA6EC5382C5 /* Pods-4.看视频.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = N4686HA3AU;
 				INFOPLIST_FILE = "4.看视频/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "LS.-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		1814166024CFCEAC00E365EA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D8B7C8B2BC3D36A02F559EC6 /* Pods-4.看视频.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = N4686HA3AU;
 				INFOPLIST_FILE = "4.看视频/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "LS.-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
